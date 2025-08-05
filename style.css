@@ -70,3 +70,9 @@ ol,
 li{
     margin-bottom: 20px;
 }
+#videos div {
+display:flex;
+}
+nav ul {
+    display:flex;
+}
