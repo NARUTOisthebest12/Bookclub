@@ -14,6 +14,7 @@ h3 {
     background-color: lightgreen;
 }
 nav {
+    display:flex;
     background-color: aqua;
     position:sticky;
     z-index: 2;
@@ -45,8 +46,8 @@ footer {
     border: 1px  solid black
 }
 .teacher-info div:last-child{
-margin-left: 50px
-
+margin-left: 50px;
+display:flex;
 }
 .main-section-content{
     padding: 20px
@@ -60,6 +61,7 @@ td{
 }
 footer{
     padding: 20px;
+    display:flex;
 }
 #bestsellers h2{
     padding:20px
